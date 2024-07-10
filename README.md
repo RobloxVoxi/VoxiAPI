@@ -7,7 +7,7 @@
 
  ## Installing The API
 
-> API ---> https://github.com/RobloxVoxi/VoxiAPI/blob/main/Voxi-API.dll
+> API ---> https://github.com/RobloxVoxi/VoxiAPI/blob/main/Voxi-API.dll/raw=true
 
 
 > INJECTOR  ---> https://github.com/RobloxVoxi/VoxiAPI/blob/main/VoxiInject.exe
