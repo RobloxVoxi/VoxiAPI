@@ -1,4 +1,4 @@
-# Voxi API
+# <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap
 
 
 > [!CAUTION]
@@ -26,7 +26,7 @@ At the top of your CS file do:
 ```
 > VoxiAPI.Voxi.Inject(); 
 ```
-This opens in the background (No console pops up via VoxiAPI, we will get onto idenfitiny when injected later in this page.
+This opens in the background (No console pops up via VoxiAPI) A Message Box will apear as shown below:
 
 ### Execute
 ```
