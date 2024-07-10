@@ -7,7 +7,8 @@
 
  ## Installing The API
 
-> [API](https://github.com/RobloxVoxi/VoxiAPI/raw/main/Voxi-API.dll) 
+> [API](https://github.com/RobloxVoxi/VoxiAPI/raw/main/Voxi-API.dll)
+> This verison of VoxiAPI Shuts of at 17/07/24
 
 
 > [INJECTOR](https://github.com/RobloxVoxi/VoxiAPI/raw/main/VoxiInject.exe)  
