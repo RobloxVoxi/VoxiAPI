@@ -16,7 +16,7 @@
 
 (Click View Raw to download)
 
-In your Debug folder of your exploit paste these 3 files as shown below:
+In your [Debug folder](https://github.com/RobloxVoxi/VoxiAPI/blob/main/image_2024-07-11_002919879.png?raw=true) of your exploit paste these 3 files as shown below: 
 <img src="https://raw.githubusercontent.com/RobloxVoxi/VoxiAPI/main/image_2024-07-11_001711541.png" />
 
 ## Starting The API
@@ -29,7 +29,7 @@ At the top of your CS file do:
 ```
 > VoxiAPI.Voxi.Inject(); 
 ```
-This opens in the background (No console pops up via VoxiAPI) A Message Box will apear as shown below:
+This operation occurs silently (no console appears via VoxiAPI). A message box will appear to alert the user of injection success or failure.
 
 ### Execute
 ```
@@ -41,8 +41,7 @@ X = Your input box, eg i have a form with 2 buttons and a rich text box it would
 ```
 > VoxiAPI.Voxi.CloseRoblox();
 ```
-This closes roblox instantly. Idk why u need this but.
-
+This closes roblox instantly, Killing all instances of roblox quickly.
 
 ## Injection Status;
 ```
