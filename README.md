@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/RobloxVoxi/VoxiAPI/main/voxilogo.png" width="48"/> API
+## <img src="https://raw.githubusercontent.com/RobloxVoxi/VoxiAPI/main/voxilogo.png" width="60"/> API
 
 
 > [!CAUTION]
@@ -15,6 +15,9 @@
 > BIN  ---> https://github.com/RobloxVoxi/VoxiAPI/blob/main/CeleryIn.bin
 
 (Click View Raw to download)
+
+In your Debug folder of your exploit paste these 3 files as shown below:
+<img src="https://raw.githubusercontent.com/RobloxVoxi/VoxiAPI/main/image_2024-07-11_001711541.png" />
 
 ## Starting The API
 At the top of your CS file do:
