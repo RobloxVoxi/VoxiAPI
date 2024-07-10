@@ -2,7 +2,7 @@
 
 
 > [!CAUTION]
-> The only official place to download VoxiAPI are this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official place to download VoxiAPI are this GitHub repository. Any other websites offering downloads or claiming to be us are not controlled by us. Please note this API is diffrent from Voxi Paid API. This API is skidded af i mean its free what do u expect.
 
 
  ## Installing The API
@@ -11,6 +11,8 @@
 
 
 > INJECTOR  ---> https://github.com/RobloxVoxi/VoxiAPI/blob/main/VoxiInject.exe
+
+> BIN  --->
 
 (Click View Raw to download)
 
