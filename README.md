@@ -16,8 +16,11 @@
 
 (Click View Raw to download)
 
-In your [Debug folder](https://github.com/RobloxVoxi/VoxiAPI/blob/main/image_2024-07-11_002919879.png?raw=true)(To open Solution Explorer in Visual Studio, click on 'View' at the top of your screen, then select 'Solution Explorer'. Right-click on your project name and choose 'Open Folder in File Explorer') of your exploit paste these 3 files as shown below: 
+In your [Debug folder](https://github.com/RobloxVoxi/VoxiAPI/blob/main/image_2024-07-11_002919879.png?raw=true)of your exploit paste these 3 files as shown below: 
 <img src="https://raw.githubusercontent.com/RobloxVoxi/VoxiAPI/main/image_2024-07-11_001711541.png" />
+
+How to get your debug folder 
+(To open Solution Explorer in Visual Studio, click on 'View' at the top of your screen, then select 'Solution Explorer'. [Right-click on your project name and choose 'Open Folder in File Explorer'](https://github.com/RobloxVoxi/VoxiAPI/blob/main/image_2024-07-11_002919879.png?raw=true)) 
 
 ## Starting The API
 At the top of your CS file do:
