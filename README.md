@@ -7,8 +7,12 @@
 
  ## Installing The API
 
-Download the lastest Version ---> Releasing soon 👀
-
+Download the lastest Version ---> 
+## Starting The API
+At the top of your CS file do:
+```
+> using VoxiAPI;
+```
 ## Using The API
 ### Inject:
 ```
@@ -16,13 +20,13 @@ Download the lastest Version ---> Releasing soon 👀
 ```
 This opens in the background (No console pops up via VoxiAPI, we will get onto idenfitiny when injected later in this page.
 
-## Execute
+### Execute
 ```
 > VoxiAPI.Voxi.Execute(X,true)
 ```
 X = Your input box, eg i have a form with 2 buttons and a rich text box it would be: VoxiAPI.Voxi.Execute(RichTextBox1,true)  
 
-## Close Roblox:
+### Close Roblox:
 ```
 > VoxiAPI.Voxi.CloseRoblox();
 ```
