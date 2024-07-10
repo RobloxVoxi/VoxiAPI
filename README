@@ -1,1 +1,8 @@
-READ
+# Welcome to VoxiAPI
+
+Voxi API was developed in 2020, but it was later overshadowed by Bryfon. Now, with new developers on our team, we have officially reopened VoxiAPI. This GitHub page is here to guide you on how to use it.
+
+## Inject
+
+```csharp
+VoxiAPI.Voxi.Inject();
