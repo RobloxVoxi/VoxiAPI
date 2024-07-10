@@ -7,7 +7,8 @@
 
  ## Installing The API
 
-Download the lastest Version ---> https://github.com/RobloxVoxi/VoxiAPI/blob/main/Voxi-API.dll
+API ---> https://github.com/RobloxVoxi/VoxiAPI/blob/main/Voxi-API.dll (Click View Raw to download)
+INJECTOR  ---> 
 ## Starting The API
 At the top of your CS file do:
 ```
