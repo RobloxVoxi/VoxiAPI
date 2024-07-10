@@ -7,12 +7,12 @@
 
  ## Installing The API
 
-> API ---> https://github.com/RobloxVoxi/VoxiAPI/blob/main/Voxi-API.dll/raw=true
+> [API](https://github.com/RobloxVoxi/VoxiAPI/raw/main/Voxi-API.dll) 
 
 
-> INJECTOR  ---> https://github.com/RobloxVoxi/VoxiAPI/blob/main/VoxiInject.exe
+> [INJECTOR](https://github.com/RobloxVoxi/VoxiAPI/raw/main/VoxiInject.exe)  
 
-> BIN  ---> https://github.com/RobloxVoxi/VoxiAPI/blob/main/CeleryIn.bin
+> [BIN](https://github.com/RobloxVoxi/VoxiAPI/raw/main/CeleryIn.bin) 
 
 (Click View Raw to download)
 
