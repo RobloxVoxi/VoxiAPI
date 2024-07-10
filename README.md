@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/RobloxVoxi/VoxiAPI/main/voxilogo.png" width="60"/> API
+# <img src="https://raw.githubusercontent.com/RobloxVoxi/VoxiAPI/main/voxilogo.png" heigh ="100" width="100"/> VoxiAPI documentation 
 
 
 > [!CAUTION]
