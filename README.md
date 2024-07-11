@@ -39,7 +39,8 @@ This operation occurs silently (no console appears via VoxiAPI). A message box w
 ```
 > VoxiAPI.Voxi.Execute(X,true);
 ```
-X = Your input box, eg i have a form with 2 buttons and a rich text box it would be: VoxiAPI.Voxi.Execute(RichTextBox1,true)  
+X = Your input box, eg i have a form with 2 buttons and a rich text box it would be: 
+Voxi.Execute(richTextBox1.Text, false); 
 
 ### Close Roblox:
 ```
